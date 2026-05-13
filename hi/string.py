@@ -91,6 +91,3 @@ if myFunction():
   print("YES!")
 else:
   print("NO!")#output:true
-
-  
-
